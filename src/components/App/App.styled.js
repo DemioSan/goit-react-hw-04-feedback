@@ -8,10 +8,6 @@ export const AppDiv = styled('div')`
   font-size: 24px;
   color: #ffffff;
   background-color: #f4bf96;
-  max-width: 500px;
-  max-height: 100%;
-  border-radius: 30px;
-  border: 2px solid rgb(206, 90, 103);
 
   div > ul {
     list-style: none;
