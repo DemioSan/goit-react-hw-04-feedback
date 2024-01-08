@@ -9,7 +9,7 @@ export const AppDiv = styled('div')`
   color: #ffffff;
   background-color: #f4bf96;
   max-width: 500px;
-  max-height: 600px;
+  max-height: 100%;
   border-radius: 30px;
   border: 2px solid rgb(206, 90, 103);
 
@@ -29,7 +29,7 @@ export const AppDiv = styled('div')`
   }
 
   button {
-    width: 100%;
+    max-width: 100%;
     min-width: 120px;
     height: 60px;
     display: block;
